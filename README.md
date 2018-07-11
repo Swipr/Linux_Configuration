@@ -6,7 +6,6 @@
 ### Linux Server Configuration.
 *This is project 6 of the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) course.*
 
-`
 
 
 #  Server details
@@ -20,6 +19,11 @@
 * **SSH port:** `2200`
 
 * **URL:** `http://ec2-18-191-51-64.us-east-2.compute.amazonaws.com`
+
+
+
+				* Working Google Sign-in. *
+
 
 
 &nbsp;
