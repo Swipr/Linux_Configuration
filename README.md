@@ -4,6 +4,10 @@
 &nbsp;
 
 ### Linux Server Configuration.
+
+Take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications; this will include installing updates, thereby securing it from a number of attack vectors and installing/configuring web and database servers.
+
+
 *This is project 6 of the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) course.*
 
 
